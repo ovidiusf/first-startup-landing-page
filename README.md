@@ -1,2 +1,5 @@
 # first-startup-landing-page
-the first landing page created
+
+> the first landing page created;
+
+> exercise project;
